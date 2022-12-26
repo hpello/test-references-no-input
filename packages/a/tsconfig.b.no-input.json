@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.b.json",
+  "include": [],
+  "files": [],
+}
